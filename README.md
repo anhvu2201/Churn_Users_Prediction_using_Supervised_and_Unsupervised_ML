@@ -1,4 +1,4 @@
-# Churn Users Prediction using Unsupervised Machine Learning
+# Churn Users Prediction using Supervised & Unsupervised Machine Learning
 # I. Introduction
 ## 1. About Supervised Machine Learning:
 - Supervised machine learning uses labeled data to train models, where input-output pairs are provided, enabling the model to predict outcomes for new, unseen data.
